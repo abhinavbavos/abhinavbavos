@@ -36,8 +36,7 @@ Welcome to my GitHub profile! I'm a developer at Agrowtein Labs, where we work o
 ## Connect with Me
 - 🐦 [Twitter](https://x.com/BavosAbhinav)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhinav-bavos/)
-- 🌐 [Personal Website](https://www.yourwebsite.com)  <!-- Add your personal website link -->
-
+- 📸 [Instagram](https://www.instagram.com/ab_bavos/) 
 
 ## Fun Fact
 🌟 I’m a huge fan of innovative tech in the agricultural sector, aiming to create solutions that make a difference!
