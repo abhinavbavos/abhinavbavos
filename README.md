@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a developer at Agrowtein Labs, where we work o
 - Exploring Data Visualization to broaden my skill set and apply new techniques in my projects.
 
  Contact
-- 📧 Email: [abhinavbavos.2000@gmail.com](mailto:abhinavbavos.2000@.com)
+- 📧 Email: [abhinavbavos.2000@gmail.com](mailto:abhinavbavos.00@gmail.com)
 
 ## Connect with Me
 - 🐦 [Twitter](https://x.com/BavosAbhinav)
